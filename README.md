@@ -14,4 +14,4 @@ Example may fail if `pandas` is not installed.
 
 ## Feedback
 
-For feedback or questions, contact: [yourname@example.com](mailto:yourname@example.com)
+For feedback or questions, contact: [yourname@example.com](mailto:barkin.adiguzel@example.com)
